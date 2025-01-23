@@ -12,10 +12,12 @@
 """
 
 def testCases():
-    assert(solution() == "")
-    assert(solution() == "")
-    assert(solution() == "")
-    assert(solution() == "")
-
-def solution() -> int:
-    return
+    testClass = Solution()
+    assert(testClass == "")
+    assert(testClass == "")
+    assert(testClass == "")
+    assert(testClass == "")
+    
+class Solution:
+    def __ ():
+        return
